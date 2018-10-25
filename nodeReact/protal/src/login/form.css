@@ -1,0 +1,20 @@
+#components-form-demo-normal-login .login-form {
+  max-width: 300px;
+}
+#components-form-demo-normal-login .login-form-forgot {
+  float: right;
+}
+#components-form-demo-normal-login .login-form-button {
+  width: 100%;
+  margin: 0 auto;
+}
+.login-form .ant-form-item-control{
+  text-align: center
+}
+.canyTitle{
+  font-size: 22px;
+  font-weight: 700;
+  color: #000;
+  text-align: center;
+  margin-bottom: 20px;
+}

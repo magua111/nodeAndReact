@@ -1,0 +1,13 @@
+.login{
+  width: 1200px;
+  margin: 0 auto;
+  background-color: pink;
+  height: 450px;
+  margin-top: 50px;
+  width: 600px;
+  background: #fff;
+  padding: 80px 60px;
+}
+body{
+  background-color: #ccc;
+}

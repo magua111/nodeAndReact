@@ -1,0 +1,7 @@
+.container{
+  min-height: 550px;
+  /* background: url('../assate/index/zhuyin.png')  no-repeat center; */
+  overflow: hidden;
+  margin: 0 auto;
+  background-color: #fff;
+}

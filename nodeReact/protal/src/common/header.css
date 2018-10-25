@@ -1,0 +1,42 @@
+.header{
+  height : 60px;
+  line-height: 60px;
+  background-color: #4bb3ef;
+  font-family: PingFang SC;
+  font-size: 22px;
+  font-weight: 700;
+}
+.header a div{
+  color: #000
+}
+.header a div:hover{
+  color: pink
+}
+.header img{
+  margin-top: 10px;
+  margin-right: 100px;
+}
+.w1200{
+  width: 1200px;
+  margin: 0 auto;
+}
+.toIndex{
+  height: 60px;
+  line-height: 60px;
+  float: left;
+  margin-right: 50px;
+  cursor: pointer;
+}
+.chart{
+  height: 60px;
+  line-height: 60px;
+  margin-right: 50px;
+  float: left;
+  cursor: pointer;
+}
+.toLogin{
+  height: 60px;
+  line-height: 60px;
+  float: left;
+  cursor: pointer;
+}
