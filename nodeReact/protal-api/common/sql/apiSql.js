@@ -1,0 +1,4 @@
+exports.API_SQL = {
+  EDIT_AQL : "SELECT * FROM USER WHERE NAME = '?'",
+  DELECT : 'SELECT * FROM USER WHERE ID = "?"'
+}

@@ -1,10 +1,10 @@
 const log4js = require('log4js');
 log4js.configure({
-  appenders: { cheese: { type: 'file', filename: 'cheese.log' } },
+  appenders: { cheese: { type: 'file', filename: __dirname +'/../logs/protal-api.log' } },
   categories: { default: { appenders: ['cheese'], level: 'error' } }
 });
  
-const logger = log4js.getLogger('cheese');
+const logger = log4js.getLogger('protal-api-log');
 // logger.trace('Entering cheese testing');
 // logger.debug('Got cheese.');
 // logger.info('Cheese is Comté.');
